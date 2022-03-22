@@ -1,0 +1,20 @@
+body {
+    background-color: rgb(240, 240, 240);
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+button {
+    width: 50px;
+    height: 17px;
+}
+
+ul p {
+    display: inline-block;
+    margin: 0;
+    padding: 0;
+}
